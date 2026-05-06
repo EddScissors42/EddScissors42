@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <h1>Opa, eu sou o Edd!</h1>
+</div>
+
+### Sobre mim ☕
+Meu nome é Reydner, eu sou estudante de programação e atualmente estou na UFPB!
+
+## 🚧Perfil em construção no momento🚧
+
 
 <!--
 **EddScissors42/EddScissors42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
