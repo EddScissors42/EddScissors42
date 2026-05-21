@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Opa, eu sou o Edd!</h1>
+  <h1>Wild Edd appeared!</h1>
 </div>
 
-## 🚧Perfil em construção no momento🚧
+Estudante de programção e testador de coisas nas horas vagas
 
 
 <!--
