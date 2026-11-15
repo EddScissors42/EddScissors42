@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Wild Edd appeared!</h1>
+  <h1>a Wild Edd appeared!</h1>
 </div>
 
 Estudante de programção e testador de coisas nas horas vagas
